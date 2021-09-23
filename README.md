@@ -39,8 +39,9 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 This maps locations featured in the *College News*. 
 I need more text for it to actually display though? Not sure if this layer is too big or if I can get it to work.
+<param ve-entity title="Philadelphia" eid="Q1345" fill="#92086D">
 <param ve-map center="Q1345" zoom="11" prefer-geojson marker-type="circle">
-<param ve-map-layer geojson url="https://digitalscholarship.brynmawr.edu/collegenews/viz/GPE_output.geojson" title="College News Locations" active>
+<param ve-map-layer geojson active url="https://digitalscholarship.brynmawr.edu/collegenews/viz/GPE_output.geojson" title="College News Locations">
 
 ## Multiple viewers
 
