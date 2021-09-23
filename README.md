@@ -38,7 +38,8 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 ## Map
 
 This maps locations featured in the *College News*. 
-<param ve-map center="Q1345" zoom="11" prefer-geojson>
+I need more text for it to actually display though? Not sure if this layer is too big or if I can get it to work.
+<param ve-map center="Q1345" zoom="11" prefer-geojson marker-type="circle">
 <param ve-map-layer geojson url="https://digitalscholarship.brynmawr.edu/collegenews/viz/GPE_output.geojson" title="College News Locations" active>
 
 ## Multiple viewers
@@ -47,7 +48,7 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+<param ve-map center="Q1345" zoom="11">
 
 # References
 
