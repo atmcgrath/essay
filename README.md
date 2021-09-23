@@ -24,6 +24,14 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 # Basic usage
 
+## Map
+
+This maps locations featured in the *College News*. 
+I need more text for it to actually display though? Not sure if this layer is too big or if I can get it to work.
+<param ve-entity title="Philadelphia" eid="Q1345" fill="#92086D">
+<param ve-map center="Q1345" zoom="11" prefer-geojson marker-type="circle">
+<param ve-map-layer geojson active url="view-source:https://digitalscholarship.brynmawr.edu/livingcampus/lc-data.geojson" title="Plants on Campus">
+
 ## Image
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
@@ -34,15 +42,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
-
-## Map
-
-This maps locations featured in the *College News*. 
-I need more text for it to actually display though? Not sure if this layer is too big or if I can get it to work.
-<param ve-entity title="Philadelphia" eid="Q1345" fill="#92086D">
-<param ve-map center="Q1345" zoom="11" prefer-geojson marker-type="circle">
-<param ve-map-layer geojson active url="https://digitalscholarship.brynmawr.edu/collegenews/viz/GPE_output.geojson" title="College News Locations">
-
+       
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
