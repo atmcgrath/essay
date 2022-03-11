@@ -42,13 +42,11 @@ Mr. Branghton was very angry, and scolded them violently: however, we were oblig
 
 ## Epistolary narratives
 
-I have more to say about this example of letter writing.
-<param ve-image 
-       url="https://triarte.brynmawr.edu/Media/images/1972.1_BMC_f.jpg">
-When, at length, these ladies were equipped to their satisfaction, they made their appearance; but before any conversation was suffered to pass between them and us, they had a long and most disagreeable dialogue with their father, to whose reprimands, though so justly incurred, they replied with the utmost pertness while their brother all the time laughed aloud.
+I have more to say about this example of letter writing. When, at length, these ladies were equipped to their satisfaction, they made their appearance; but before any conversation was suffered to pass between them and us, they had a long and most disagreeable dialogue with their father, to whose reprimands, though so justly incurred, they replied with the utmost pertness while their brother all the time laughed aloud.
 
 <param ve-image 
        url="https://triarte.brynmawr.edu/Media/images/1972.1_BMC_f.jpg">
+<param ve-entity eid="Q173223" title="Mary Cassat">
 
 ## Map
 
@@ -69,9 +67,10 @@ The moment they perceived this, they were so much provoked, that, instead of mak
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer. Others are selectable using icons displayed in the top right margin of the paragraph.
 The dinner was ill-served, ill-cooked, and ill-managed. The maid who waited had so often to go down stairs for something that was forgotten, that the Branghtons were perpetually obliged to rise from table themselves, to get plates, knives, and forks, bread or beer. Had they been without pretensions, all this would have seemed of no consequence; but they aimed at appearing to advantage, and even fancied they succeeded. However, the most disagreeable part of our fare was that the whole family continually disputed whose turn it was to rise, and whose to be allowed to sit still.
 
-<param ve-graphic 
+<param ve-image 
        url="https://www.wikidata.org/wiki/Q18519125#/media/File:Portrait_of_an_Elderly_Lady_in_a_Bonnet_-_Red_Background_by_Mary_Cassatt.jpg">
 <param ve-map center="Q1345" zoom="11" prefer-geojson marker-type="circle">
+<param ve-entity eid="Q18519125">
 
 # References
 
