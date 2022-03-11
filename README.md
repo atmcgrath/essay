@@ -21,9 +21,24 @@
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       url="https://triarte.brynmawr.edu/Media/images/1972.1_BMC_f.jpg">
 
 # Basic usage
+
+## Flowers
+
+_Plant Portfolio - Iris_ by painter Alida Fish, who is not in wikidata. From Bryn Mawr College's Art and Artifacts collection: [accession number: 2006.1.287](https://triarte.brynmawr.edu/artist-maker/info/22047)
+From the Scott collection of women artists. 
+
+<param ve-image
+       label="Plant Portfolio - Iris"
+       description="Painting of an Iris by Alida Fish"
+       license="Bryn Mawr College"
+       url="https://triarte.brynmawr.edu/Media/images/2006.1.287_BMC_f_3.jpg">
+
+## Epistolary narratives
+
+I have more to say about this example of letter writing.
 
 ## Map
 
@@ -44,11 +59,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
        
-## Flowers
-<param ve-image
-       label="Plant Portfolio - Iris"
-       description="Painting of an Iris by Alida Fish"
-       url="https://triarte.brynmawr.edu/Media/images/2006.1.287_BMC_f_3.jpg">
+
 
 ## Multiple viewers
 
@@ -56,8 +67,7 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q1345" zoom="11">
-
+<param ve-map center="Q1345" zoom="11" prefer-geojson marker-type="circle">
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
