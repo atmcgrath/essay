@@ -37,12 +37,14 @@ From the Scott collection of women artists.
        description="Painting of an Iris by Alida Fish"
        license="Bryn Mawr College"
        url="https://triarte.brynmawr.edu/Media/images/2006.1.287_BMC_f_3.jpg">
+       
+Mr. Branghton was very angry, and scolded them violently: however, we were obliged to descend, and stools were procured for us in the shop, where we found the brother, who was highly delighted, he said, that his sisters had been catched; and he thought proper to entertain me with a long account of their tediousness, and the many quarrels they all had together.
 
 ## Epistolary narratives
 
 I have more to say about this example of letter writing.
-
-Mr. Branghton was very angry, and scolded them violently: however, we were obliged to descend, and stools were procured for us in the shop, where we found the brother, who was highly delighted, he said, that his sisters had been catched; and he thought proper to entertain me with a long account of their tediousness, and the many quarrels they all had together.
+<param ve-image 
+       url="https://triarte.brynmawr.edu/Media/images/1972.1_BMC_f.jpg">
 
 When, at length, these ladies were equipped to their satisfaction, they made their appearance; but before any conversation was suffered to pass between them and us, they had a long and most disagreeable dialogue with their father, to whose reprimands, though so justly incurred, they replied with the utmost pertness while their brother all the time laughed aloud.
 
