@@ -15,6 +15,7 @@
 <param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity title="Philadelphia" eid="Q1345" fill="#92086D">
 
 # Sample visual essay
 
@@ -43,6 +44,12 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
        
+## Flowers
+<param ve-image
+       label="Plant Portfolio - Iris"
+       description="Painting of an Iris by Alida Fish"
+       url="https://triarte.brynmawr.edu/Media/images/2006.1.287_BMC_f_3.jpg">
+
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
