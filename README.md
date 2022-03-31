@@ -5,7 +5,7 @@
 <param ve-config 
        title="Letters and flowers"
        author="Alice McGrath"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/3/35/An_Election_III%2C_The_Polling%2C_by_William_Hogarth.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
