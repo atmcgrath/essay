@@ -69,7 +69,7 @@ The moment they perceived this, they were so much provoked, that, instead of mak
 Mary Cassatt painted "Portrait of an Elderly Lady in a Bonnet". Back to Evelina: The dinner was ill-served, ill-cooked, and ill-managed. The maid who waited had so often to go down stairs for something that was forgotten, that the Branghtons were perpetually obliged to rise from table themselves, to get plates, knives, and forks, bread or beer. Had they been without pretensions, all this would have seemed of no consequence; but they aimed at appearing to advantage, and even fancied they succeeded. However, the most disagreeable part of our fare was that the whole family continually disputed whose turn it was to rise, and whose to be allowed to sit still.
 
 <param ve-image 
-       url="https://www.wikidata.org/wiki/Q18519125#/media/File:Portrait_of_an_Elderly_Lady_in_a_Bonnet_-_Red_Background_by_Mary_Cassatt.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/a/ae/Portrait_of_an_Elderly_Lady_in_a_Bonnet_-_Red_Background_by_Mary_Cassatt.jpg"
        eid="Q18519125" title="Portrait of an Elderly Lady in a Bonnet">
 
 # References
