@@ -56,12 +56,13 @@ This is a map of Philadelphia. This sort of dialogue we were amused with till di
 
 <param ve-entity title="Philadelphia" eid="Q1345" fill="#92086D">
 <param ve-map center="Q1345" zoom="11" prefer-geojson marker-type="circle">
-<param ve-map-layer geojson active url="https://digitalscholarship.brynmawr.edu/livingcampus/lc-data.geojson" title="Plants on Campus">
 
 ## Books
 
 The moment they perceived this, they were so much provoked, that, instead of making any apologies to Madame Duval, they next began to quarrel with him. "Tom, what do you laugh for? I wonder what business you have to be always a laughing when Papa scolds us?"
-<param ve-image manifest="https://digi.vatlib.it/iiif/MSS_Vat.lat.3773/manifest.json" >
+<param ve-image seq
+       manifest="https://digi.vatlib.it/iiif/MSS_Vat.lat.3773/manifest.json" 
+       >
 
 ## Multiple viewers
 
